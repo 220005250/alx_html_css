@@ -18,3 +18,30 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+
+/* Change the background color of the header */
+header {
+    background-color: #f2f2f2;
+  }
+  
+  /* Add a border to the article */
+  article {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Change the color of the footer text */
+  footer p {
+    color: #888;
+  }
+/*just trying these out*/
+/* Style the logo */
+.logo {
+    font-size: 32px;
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  
+  
