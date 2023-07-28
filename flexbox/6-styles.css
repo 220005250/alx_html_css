@@ -393,10 +393,9 @@ html {
   }
   
   .nav .nav-item {
-    margin: 0;
-  }
   
- 
+  }
+
 
 .nav .nav-item + .nav-item {
   margin: var(--nav-item-margin);
